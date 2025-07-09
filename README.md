@@ -1,5 +1,9 @@
 # Log Server with Redis and Client
 
+
+https://github.com/user-attachments/assets/e8543481-3e37-44ec-8e9b-641557df31a0
+
+
 This is a Docker Compose setup with Redis, a Python Flask server, and a simple web client.
 
 ## Architecture
